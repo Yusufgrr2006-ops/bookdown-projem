@@ -1,0 +1,65 @@
+---
+title: "R Markdown ve Bookdown: Ders Web Sitesi"
+author: "Yusuf Görür"
+date: "`2025-11-30`"
+site: bookdown::bookdown_site
+documentclass: book
+description: |
+  Bu ders web sitesi, R Markdown ve Bookdown kullanılarak oluşturulmuş kapsamlı bir eğitim kaynağıdır.
+  Kod örnekleri, açıklamalar, grafikler, tablolar, veri analizi ve yayınlama süreçlerini içerir.
+---
+
+# Ön Söz
+
+Bu web sitesi, **R Markdown: The Definitive Guide** kitabından ilham alınarak oluşturulmuş bir ders materyalidir.  
+R Markdown ve Bookdown, veri analizini tek bir belgede belgeleme, açıklama, anlatım ve sunum yapmayı mümkün kılan güçlü araçlardır.
+
+Bu kitapta:
+
+- R Markdown temelleri  
+- Kod çalıştırma, chunk'lar, grafikler ve tablolar  
+- Bookdown yapısı ve dosya sistemi  
+- Çapraz referanslar (Şekil, Tablo, Bölüm)  
+- Kitap çıktıları (HTML, PDF, EPUB)  
+- GitHub Pages & Netlify ile yayına alma  
+- Veri analizi örnekleri  
+- R Markdown’da rapor yazım teknikleri  
+
+gibi konuları öğreneceksin.
+
+---
+
+# Bu Kitabı Nasıl Kullanmalısın?
+
+- Soldaki menüden bölümler arasında gezebilirsin.  
+- Kod bloklarının çoğu çalışabilir örneklerle dolu.  
+- İstersen PDF veya EPUB olarak indirebilirsin.  
+- Her bölümün sonunda ufak uygulama görevleri var.  
+
+---
+
+# Hedef Kitle
+
+Bu kitap:
+
+- Veri analizi yapan öğrenciler  
+- R programlamaya yeni başlayanlar  
+- R Markdown ile rapor yazmak isteyenler  
+- Akademik belge hazırlayanlar  
+
+için tasarlanmıştır.
+
+---
+
+# İçindekiler
+
+Bu kitap şu bölümlerden oluşur:
+
+1. **Giriş ve Temeller**  
+2. **R Markdown Yapısı ve Kod Çalıştırma**  
+3. **Bookdown ile Kitap Oluşturma**  
+4. **Grafikler, Tablolar, Veri İşleme Örnekleri**  
+5. **PDF / EPUB Çıktıları**  
+6. **Web Yayını**  
+
+Hazırsan başlayalım! 🚀

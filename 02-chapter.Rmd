@@ -1,0 +1,22 @@
+# Bookdown Yapısı ve Kitap Oluşturma {#bookdown-yapisi}
+
+Bu bölümde Bookdown’ın çalışma mantığını, dosya yapısını ve kitap oluşturma sürecini inceleyeceğiz.
+
+---
+
+## Bookdown Neden Kullanılır?
+
+Bookdown; R Markdown belgelerini kitap veya web sitesi formatında düzenlemeyi sağlayan güçlü bir araçtır. Başlıca avantajları:
+
+- Bölümleri ayrı dosyalar hâlinde tutar  
+- Otomatik numaralandırma yapar  
+- Çapraz referans (şekil, tablo, bölüm) desteği sunar  
+- HTML, PDF ve EPUB çıktıları üretir  
+- R kodlarını dinamik biçimde işleterek tekrar üretilebilir doküman sağlar  
+
+---
+
+## Bookdown Dosya Yapısı
+
+Bir bookdown projesi genellikle şöyle görünür:
+

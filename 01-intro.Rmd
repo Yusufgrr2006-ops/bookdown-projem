@@ -1,0 +1,30 @@
+# R Markdown'a Giriş {#giris}
+
+Bu bölümde R Markdown’ın ne olduğunu, nasıl çalıştığını ve neden bu kadar kullanışlı olduğunu öğreneceğiz.
+
+---
+
+## R Markdown Nedir?
+
+R Markdown; metin, kod ve grafiklerin tek bir dosyada toplandığı "reproducible research" aracıdır.
+
+Aşağıdakileri aynı anda yapabilirsin:
+
+- Metin yazma  
+- R kodu çalıştırma  
+- Grafik üretme  
+- Tablolar oluşturma  
+- PDF/HTML rapor üretme  
+
+---
+
+## R Markdown Çalışma Mantığı
+
+R Markdown dosyaları üç bölümden oluşur:
+
+1. **YAML Başlık (metadata)**  
+2. **Metin içeriği (Markdown)**  
+3. **Kod blokları (chunk)**  
+
+Örnek R kod bloğu:
+
